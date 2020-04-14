@@ -1,5 +1,5 @@
 {
-  "name": "stacksicon-helper",
+  "name": "stacks-icon-helper",
   "version": "1.0.0",
   "description": "A helper for letting you use Stacks icons in the front-end.",
   "main": "index.js",
