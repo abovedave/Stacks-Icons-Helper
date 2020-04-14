@@ -1,0 +1,18 @@
+{
+  "name": "stacksicon-helper",
+  "version": "1.0.0",
+  "description": "A helper for letting you use Stacks icons in the front-end.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "David Longworth <mr@longworth.to>",
+  "license": "ISC",
+  "dependencies": {
+    "@stackoverflow/stacks-icons": "^1.34.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abovedave/Stacks-Icons-Helper.git"
+  }
+}
